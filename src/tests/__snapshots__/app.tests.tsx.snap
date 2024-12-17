@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hello World Tests should have a consistent snapshot 1`] = `
+<div>
+  <div
+    class="scrollContainer"
+  >
+    <div
+      class="jv_R6g"
+      style="--NZu1Zw: 16px;"
+    >
+      <p
+        class="fFOiLQ _5Ob_nQ fM_HdA"
+      >
+        To make changes to this app, edit the 
+        <code>
+          src/app.tsx
+        </code>
+         file, then close and reopen the app in the editor to preview the changes.
+      </p>
+      <button
+        class="_1QoxDw Qkd66A tYI0Vw o4TrkA zKTE_w Qkd66A tYI0Vw lsXp_w ubW6qw cwOZMg zQlusQ uRvRjQ"
+        type="button"
+      >
+        <span
+          class="_38oWvQ"
+        >
+          Do something cool
+        </span>
+      </button>
+      <button
+        class="_1QoxDw Qkd66A tYI0Vw o4TrkA NT2yCg Qkd66A tYI0Vw lsXp_w cwOZMg zQlusQ uRvRjQ"
+        type="button"
+      >
+        <span
+          class="_38oWvQ"
+        >
+          Open Canva Apps SDK docs
+        </span>
+      </button>
+    </div>
+  </div>
+  ,
+</div>
+`;
